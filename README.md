@@ -1,1 +1,4 @@
 # Bank_Loan_Prediction_Using_Machine_Learning
+The Loan Prediction Dataset sourced from Kaggle aims to predict loan eligibility. It includes a training dataset with 614 records and a test dataset with 367 records, both having 13 attributes such as LoanID, Gender, Married status, Dependents, Education level, Employment status, Income, Loan Amount, Loan Term, Credit History, Property Area, and Loan Status. This dataset is utilized for predictive modeling and analysis to determine loan approval chances.
+
+Using Streamlit, an automated bank loan approval prediction web app is built. The app collects user inputs such as account number, full name, gender, marital status, dependents, education, employment status, property area, credit score, monthly income, co-applicant income, loan amount, and loan duration. These inputs are processed by a pre-trained machine learning model to predict loan approval status, which is then displayed to the user.
